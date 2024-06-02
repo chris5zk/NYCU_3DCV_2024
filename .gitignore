@@ -1,3 +1,13 @@
+# our ignore
+exp*/
+reconstruction
+*.pth
+*.ckpt
+checkpoints
+datasets
+inputs
+outputs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
