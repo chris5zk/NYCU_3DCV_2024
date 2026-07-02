@@ -2,7 +2,7 @@ einops==0.4.1
 matplotlib==3.3.4
 multiprocess==0.70.12.2
 open3d==0.13.0
-opencv-python==4.5.3.56
+opencv-python==4.8.1.78
 Pillow==8.3.2
 plyfile==0.7.4
 tensorboard==2.6.0
